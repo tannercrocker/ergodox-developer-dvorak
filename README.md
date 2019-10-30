@@ -1,7 +1,8 @@
 # ergodox-developer-dvorak
 A keymap for an Ergodox EZ that is based around the Dvorak layout, and maintaining the QWERTY layout on a separate layer.  
 
-**Status** | In progress
+**Code Status** | In progress  
+**ReadMe Status** | In progress  
 
 # Purpose
 Making a keymap to fit my lifestyle. I would like to be able to use this for both development and gaming. I want to also use the Dvorak layout primarily.
@@ -70,7 +71,7 @@ Making a keymap to fit my lifestyle. I would like to be able to use this for bot
                                 |      |      |  End |   | PDwn |      |      |
                                 `--------------------'   `--------------------'
 ```
-### Mouse & Media Layer
+### Mouse & Media Layer (not filled in)
 ```
 ,---------------------------------------------------.    ,--------------------------------------------------.
 |    =    |  N1  |  N2  |  N3  |  N4  |  N5  |  ->  |    |  <-  |  N6  |  N7  |  N8  |  N9  |  N0  |    =   |
