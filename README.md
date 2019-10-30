@@ -100,11 +100,12 @@ Decided to move over to QMK/git after the ergodox ez config got really wacky. RG
 Will be referencing ZSA's code: https://github.com/zsa/qmk_firmware/tree/master/keyboards/ergodox_ez  
 (just a fork of https://github.com/qmk/qmk_firmware)  
 Here's what I'm gonna change:
-- Number Row numbers :)
+- Number Row numbers
   - Thinking about layer shifting them so I have better access to the spec chars for programming
 - Dropping mouse layer, its really just a novelty and my actual mouse is right there.
 
 ### Approx. 9/2018
+This all transpired out of a desire to make a keyboard. I made some initial plans for making a hand-held mechanical keyboard (somewhat like a column in your hand, with rows of keys for each finger). Even printed a couple of test objects and began assembling a test unit. Assembly proved too difficult for me - the soldering requires extreme precision in tight spaces, and I've got some rather shaky fingers. I decided to switch gears and found Ergodox.
 Here's what you missed, as a quick summary
 >\> Got an Ergodox EZ (the one with the backlit keys)  
 >\> Wanted to start with a dvorak layout  
